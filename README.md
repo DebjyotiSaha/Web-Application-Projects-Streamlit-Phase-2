@@ -5,6 +5,8 @@ This repository contains web application projects built using [Streamlit](https:
 ## 📂 Repository Structure
 
 - **`Adidas Interactive Dashboard`**: A Streamlit-based web application offering an interactive dashboard to visualize Adidas-related data. This app highlights advanced data visualization techniques and an intuitive UI.
+- **`Superstore Sales Dashboard`**: The Superstore Sales Dashboard is an interactive and user-friendly web application developed using Streamlit. 
+It provides a comprehensive visualization of sales data, enabling users to analyze sales across various dimensions such as regions, states, categories, and time.
 
 ## 🚀 Features
 
